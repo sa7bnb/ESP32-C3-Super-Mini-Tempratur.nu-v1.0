@@ -55,4 +55,4 @@ Flera sensorer kan kopplas parallellt på samma GPIO4.
 
 ---
 
-Utvecklad av A. Isaksson 2025 | Används med [Temperatur.nu](https://www.temperatur.nu/)Retry
+Utvecklad av A. Isaksson 2025
