@@ -8,6 +8,10 @@ Firmware för ESP32-C3 som rapporterar temperatur till [Temperatur.nu](https://w
 - DS18B20 temperatursensor(er)
 - 4.7kΩ resistor
 
+### PCB (Valfritt)
+
+Gerber-filer finns tillgängliga för att tillverka eget kretskort via [JLCPCB.com](https://jlcpcb.com/) eller annan PCB-tillverkare.
+
 ## Koppling
 ESP32-C3    DS18B20
 
@@ -51,4 +55,4 @@ Flera sensorer kan kopplas parallellt på samma GPIO4.
 
 ---
 
-Utvecklad av A. Isaksson 2025
+Utvecklad av A. Isaksson 2025 | Används med [Temperatur.nu](https://www.temperatur.nu/)Retry
