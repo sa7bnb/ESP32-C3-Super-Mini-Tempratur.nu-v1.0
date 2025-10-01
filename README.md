@@ -1,6 +1,6 @@
 # 🌡️ Temperatur.nu Reporter
 
-Firmware för ESP32-C3 som rapporterar temperatur till [Temperatur.nu](https://www.temperatur.nu/).
+Firmware och hårdvara för ESP32-C3 som rapporterar temperatur till [Temperatur.nu](https://www.temperatur.nu/).
 
 ## Hårdvara
 
